@@ -2,7 +2,7 @@
 
 Play a sound every time a key is pressed.
 
-Licensed under WTFPL.
+Licensed under Unlicense.
 
 ## Compiling
 
