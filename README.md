@@ -4,6 +4,12 @@ Play a sound every time a key is pressed.
 
 Licensed under WTFPL.
 
+## Compiling
+
+```
+gcc main.c -o rubbertyper.exe -lwinmm
+```
+
 ## Running
 
 ```
